@@ -1,15 +1,16 @@
 
-![Designer who codes](https://github.com/Nishant2116/Nishant2116/blob/66b51b1bb030cefb37ee0e2d5d73cf666e8f7e3d/linkedin.png) 
+<div align="center">
+
+<img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+<img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/PvwNfTzHUX9y7ICxiF/giphy.gif">
+<img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/QdYVeDStxnrvfpmvef/giphy.gif">
+
+
+
 
 ## Hi, I am Nishant.
-![Profile views](https://gpvc.arturio.dev/Nishant2116)  
 
-#### --
---
-
-## Skills:
-
-### Python | Machine Learning | Deep Learning | Web Development 
+## Skills: Python | Machine Learning | Deep Learning | Web Development 
 
 #
 
@@ -19,7 +20,8 @@
 <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant2116&layout=compact&langs_count=7&theme=tokyonight&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40"/>
    
 </div>
-
+  
+#
 
   #### ✨ Hello there! Welcome to my profile! I'm a 19 year old Computer Science student :)👾 I have a passion for creating and learning new things.🌠 Currently studying Machine Learing & AI.🧑🏻‍💻 Thanks for stopping by, see you around! 🥀
   
