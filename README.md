@@ -9,9 +9,9 @@
 
 
 
-## Hi, I am Nishant.
+## Hi, I am Nishant.🙂
 
-## Skills: Python | Machine Learning | Deep Learning | Web Development 
+## Skills : Python | Machine Learning | Deep Learning | Web Development 
 
 #
 
