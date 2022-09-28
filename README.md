@@ -20,7 +20,7 @@
    
 </div>
 
-  #### ✨ Hello there! Welcome to my profile! I'm a 19 year old Computer Science student :)👾 I have a passion for creating and learning new things.✨ Currently studying Machine Learing & AI.🧑🏻‍💻 Thanks for stopping by, see you around! 🥀
+  #### ✨ Hello there! Welcome to my profile! I'm a 19 year old Computer Science student :)👾 I have a passion for creating and learning new things.🌠 Currently studying Machine Learing & AI.🧑🏻‍💻 Thanks for stopping by, see you around! 🥀
   
   
   #
