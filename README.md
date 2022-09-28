@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img align="center" alt="zerotwo-pic" height="120" style="border-radius:50px;" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
-<img align="center" alt="zerotwo-pic" height="120" style="border-radius:50px;" src="https://media.giphy.com/media/QdYVeDStxnrvfpmvef/giphy.gif">
-<img align="center" alt="zerotwo-pic" height="120" style="border-radius:50px;" src="https://media.giphy.com/media/PvwNfTzHUX9y7ICxiF/giphy.gif">
+<img align="center" alt="zerotwo-pic" height="135" style="border-radius:50px;" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+<img align="center" alt="zerotwo-pic" height="135" style="border-radius:50px;" src="https://media.giphy.com/media/QdYVeDStxnrvfpmvef/giphy.gif">
+<img align="center" alt="zerotwo-pic" height="135" style="border-radius:50px;" src="https://media.giphy.com/media/PvwNfTzHUX9y7ICxiF/giphy.gif">
 
 
 
