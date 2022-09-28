@@ -26,7 +26,7 @@
   #
  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nishant2116) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nishant-deshmukh-1a3836185/) &nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nishant2116) &nbsp; [<img src='https://github.com/Nishant2116/Nishant2116/blob/e20eea6b0bb7b1165e8536f6bc6387b7cf7d7e5d/.github/workflows/5296501_linkedin_network_linkedin%20logo_icon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/nishant-deshmukh-1a3836185/) &nbsp;
 [<img src='https://github.com/Nishant2116/Nishant2116/blob/23fd4f57e1c99cee4fd5911d7c143bee40a9111a/.github/workflows/5296765_camera_instagram_instagram%20logo_icon.png' alt='instagram' height='40'>](https://www.instagram.com/_nd_216/)
 
 
