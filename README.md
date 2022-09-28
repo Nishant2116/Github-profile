@@ -1,5 +1,5 @@
 
-![Designer who codes](https://github.com/Nishant2116/Github-profile/blob/904cfa4666d68f1bbcd8fd9f28f9878c70f85a41/linkedin%20.png) 
+![Designer who codes](https://github.com/Nishant2116/Nishant2116/blob/66b51b1bb030cefb37ee0e2d5d73cf666e8f7e3d/linkedin.png) 
 
 ## Hi, I am Nishant.
 #### --
