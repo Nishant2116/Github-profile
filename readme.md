@@ -20,7 +20,6 @@
 ![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logocolor=orange)
 ![Css 3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown&logocolor=green)
 ![Markdown](https://img.shields.io/badge/MARKDOWN-000?style=for-the-badge&logo=markdown&logoColor=green)
 
 #### Design/Development Tools
