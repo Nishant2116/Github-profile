@@ -68,6 +68,3 @@
 ![@nishant216's Holopin board](https://holopin.io/api/user/board?user=nishant216)
 
 </div>
-
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nishant-deshmukh-1a3836185" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/nishant-deshmukh-1a3836185?trk=profile-badge">Nishant Deshmukh</a>
-    </div>
